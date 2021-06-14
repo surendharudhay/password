@@ -1,0 +1,2 @@
+# password
+linux firewall
